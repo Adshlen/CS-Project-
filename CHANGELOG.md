@@ -25,3 +25,18 @@ All notable changes to this project will be documented in this file.
 
 ## Version V1.2.2 - Aug 28, 2026 (9:30 AM)
 - Creation of the project proposal containing the reasons, explanations, and program flow
+
+---
+
+## Version V1.2.3 - Aug 28, 2026 (7:46)
+- Revision of the project proposal, double-checking if the document meets the requirements
+- Checking out on the progress of our code so far, testing the pre-code model on what it should look like
+
+## Version V1.3.0 - Aug 28, 2026 (8:05)
+- Proper comments and print statements are esablished
+- The exit option now functions as and exit opion
+- Tasks are now numbered via counter
+
+  **Bugs:**
+  - The loop funtion for linking choice 1 to the menu are messing with the exit option (infinite loop)
+  - Including a couple sytnax used incorrectly or misplaced signs
