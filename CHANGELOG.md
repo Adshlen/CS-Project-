@@ -50,6 +50,7 @@ All notable changes to this project will be documented in this file.
 - Fixed syntax and signs
 - All choices are viable (just not all working)
 - Choice 3 (list) works
- (personal note: I lost all that I coded today so I had to recode it.)
+
+(personal note: I lost all that I coded today so I had to recode it.)
 
 ---
