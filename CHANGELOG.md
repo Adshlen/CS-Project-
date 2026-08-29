@@ -28,11 +28,13 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-## Version V1.2.3 - Aug 28, 2026 (7:46)
+## Version V1.2.3 - Aug 28, 2026 (7:46 PM)
 - Revision of the project proposal, double-checking if the document meets the requirements
 - Checking out on the progress of our code so far, testing the pre-code model on what it should look like
 
-## Version V1.3.0 - Aug 28, 2026 (8:05)
+---
+
+## Version V1.3.0 - Aug 28, 2026 (8:05 PM)
 - Proper comments and print statements are esablished
 - The exit option now functions as and exit opion
 - Tasks are now numbered via counter
@@ -40,3 +42,14 @@ All notable changes to this project will be documented in this file.
   **Bugs:**
   - The loop funtion for linking choice 1 to the menu are messing with the exit option (infinite loop)
   - Including a couple sytnax used incorrectly or misplaced signs
+
+---
+
+## Version V1.4.0 - Aug 29, 2026 (3:04 PM)
+- Patched the looping bug
+- Fixed syntax and signs
+- All choices are viable (just not all working)
+- Choice 3 (list) works
+ (personal note: I lost all that I coded today so I had to recode it.)
+
+---
