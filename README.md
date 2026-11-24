@@ -6,7 +6,7 @@ A simple, intelligent scheduler that accepts your tasks, analyzes their urgency,
 
 ## Overview / Description
 
-Managing daily school life tasks can be overwhelming. **ClockWork** solves this by taking your input tasks and scheduling them into an optimized list, timeline, and into calender form, helping you stay on top of your deadlines without guesswork.
+Managing daily school life tasks can be overwhelming. **ClockWork** solves this by taking your input tasks and scheduling them into an optimized list, timeline, and into calendar form, helping you stay on top of your deadlines without guesswork.
 
 ---
 
