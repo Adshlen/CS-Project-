@@ -14,7 +14,7 @@ All notable changes to this project are and will be documented in this file.
 - All choices are viable (just not all working)
 - Choice 3 (list) works
 
-** Fixes: **
+**Fixes:**
 - Patched the looping bug
 - Fixed syntax and signs
 
@@ -25,7 +25,7 @@ All notable changes to this project are and will be documented in this file.
 - The exit option now functions as an exit opion
 - Tasks are now numbered via counter, for easy tracking
 
-** Bugs: **
+**Bugs:**
 - The loop funtion for linking choice 1 to the menu are messing with the exit option (infinite loop)
 - Including a couple sytnax used incorrectly or misplaced signs
 
