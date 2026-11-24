@@ -6,7 +6,7 @@ A simple, intelligent scheduler that accepts your tasks, analyzes their urgency,
 
 ## Overview / Description
 
-Managing daily tasks can be overwhelming. **Super Smart Scheduler (S.S.S)** solves this by taking your input tasks and scheduling them into an optimized list, timeline, and into calender form, helping you stay on top of your deadlines without guesswork.
+Managing daily school life tasks can be overwhelming. **Super Smart Scheduler (S.S.S)** solves this by taking your input tasks and scheduling them into an optimized list, timeline, and into calender form, helping you stay on top of your deadlines without guesswork.
 
 ---
 
