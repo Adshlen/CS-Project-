@@ -33,6 +33,10 @@ To utilize the **List** and **Schedule** features, you must first add at least o
 4.  **Due Date** (*Remaining days)
 5.  **Estimated Time** (*Minutes needed to complete*)
 
+**To run the code:**
+- The coding language is python
+- Use Vscode with tabulate installed (from the package pip from PyPI)
+
 ---
 
 ## Sample Interaction / Output
